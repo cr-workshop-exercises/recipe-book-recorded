@@ -30,6 +30,10 @@
 - Add eggs and blend
 - Add evaporated milk and blend
 
+## Serving
+
+- Add some red berries
+
 
 ## Baking
 
