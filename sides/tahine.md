@@ -3,7 +3,8 @@
 ## Ingredients
 
 - Chickpeas
-- garlic
+- Garlic
+- Salt
 
 
 ## Instructions
