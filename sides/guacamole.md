@@ -10,7 +10,6 @@
 - 1/2 onion
 - 1 Tbsp cilantro
 
-
 ## Instructions
 
 - chop avocados
