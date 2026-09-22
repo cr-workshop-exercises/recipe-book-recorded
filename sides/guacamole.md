@@ -9,7 +9,9 @@
 - 1 tsp salt
 - 1/2 onion
 - 1 Tbsp cilantro
-
+- Ingredient 7
+- Ingredient 8
+- Ingredient 9
 
 ## Instructions
 
