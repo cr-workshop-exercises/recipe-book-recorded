@@ -16,4 +16,4 @@
 - deglace with broth and add cream to your liking, let it simmer until the consistance is nice
 - coook the pasta aldente in the meantime
 
-## ENjoy
+## Enjoy
