@@ -4,6 +4,7 @@
 
 - Blueberry 1
 - Strawberry 2
+- Cloudberry 2
 
 
 ## Instructions
